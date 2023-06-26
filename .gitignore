@@ -1,5 +1,6 @@
 build/
 sigmaUtils.jar
+lib
 
 .idea
 *.iml
